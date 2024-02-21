@@ -1,0 +1,11 @@
+# Ignorar Natural Earth Quick Start
+/Natural_Earth_quick_start
+
+# Ignorar el entorno virtual
+/venv
+
+# Ignorar migation files
+/migracion_files
+
+# ignorar archivo html
+*.html
